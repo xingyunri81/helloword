@@ -6,7 +6,6 @@ public class Main {
 	// write your code here
         TestClass cc = new TestClass();
         // devlop commit
-        // master commit
         System.out.print("hello123" + cc.getValue());
     }
 }
